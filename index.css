@@ -10,7 +10,7 @@ html { background: url(image/background.jpg); background-attachment: fixed; back
 ul { padding-inline-start: 0px; }
 a { text-decoration: none; color:black;}
 
-.logo { text-align: center; margin:15px; }
+.logo { text-align: center; margin:10px; }
 .logo img { width: 40%; text-align: center; max-width: 150px;}
 
 nav { font-family: 'MapoGoldenPier'; font-size: 18px; text-align: center; font-weight: bold; 
