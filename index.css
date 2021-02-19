@@ -66,9 +66,7 @@ table tr td { width: 14%; border: 2px solid gray; padding-top: 10px; padding-bot
 
 @media screen and (max-width: 500px) {
     
-    .jo-coo img { width: 45%; }
-
-.jo-bo img { width: 12%; margin: 0 30px; }
+  table { font-size: 10px; }
     
 }
 
