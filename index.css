@@ -10,10 +10,10 @@ html { background: url(image/background.jpg); background-attachment: fixed; back
 ul { padding-inline-start: 0px; }
 a { text-decoration: none; color:black;}
 
-.logo { text-align: center; margin:10px; }
-.logo img { width: 40%; text-align: center; max-width: 150px;}
+.logo { text-align: center; margin:10px; margin-bottom: 0px;}
+.logo img { width: 40%; text-align: center; max-width: 150px; }
 
-nav { font-family: 'MapoGoldenPier'; font-size: 18px; text-align: center; font-weight: bold; 
+nav { font-family: 'MapoGoldenPier'; font-size: 15px; text-align: center; font-weight: bold; 
 text-shadow:
     -1px -1px 0 white,
     1px -1px 0 white,
@@ -22,7 +22,7 @@ text-shadow:
 
 }
 nav ul { background-color: rgba(245, 245, 245, 0.9); display: inline-block;  }
-nav ul li {list-style: none; display: inline-block; margin:10px;}
+nav ul li {list-style: none; display: inline-block; margin:8px;}
 
 .box { margin: 0 auto; width:80%; border: 1px solid white; border-radius: 10px; min-height: 300px; padding:30px; background-color: rgba(245, 245, 245, 0.98);}
 
