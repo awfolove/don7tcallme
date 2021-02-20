@@ -27,6 +27,7 @@ nav ul li {list-style: none; display: inline-block; margin:8px;}
 .box { margin: 0 auto; width:80%; border: 1px solid white; border-radius: 10px; min-height: 300px; padding:30px; background-color: rgba(245, 245, 245, 0.98);}
 
 .title { font-family: 'MapoGoldenPier'; font-size: 25px; text-align: center; }
+.title:hover { cursor: pointer;}
 
 .code { font-family: 'MapoGoldenPier'; font-size: 25px; color: #ff9e17; text-align: center; margin-top: 30px; }
 
@@ -52,7 +53,7 @@ table tr td { width: 14%; border: 2px solid gray; padding-top: 10px; padding-bot
 .twitter-tweet { text-align: center; margin: 0 auto; padding-top: 20px; }
 
 
-
+#onesub { display: none; }
 
 
 
