@@ -43,7 +43,8 @@ footer { font-family: 'CookieRun-Regular'; color: white; text-align: center; mar
 
 .youtube iframe { position: absolute; width:100%; height: 100%; top:0; left:0; }
 
-.ad {  text-align: center; }
+.adbox {  text-align: center; }
+.ad {  text-align: center; display:inline-block; }
 
 table { width: 100%; border-collapse: collapse; }
 table tr { width: 100%; }
