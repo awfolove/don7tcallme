@@ -69,7 +69,7 @@ table tr td { width: 14%; border: 2px solid gray; padding-top: 10px; padding-bot
 
 @media screen and (max-width: 500px) {
     
-  table { font-size: 10px; }
+  table { font-size: 8px; }
     
 }
 
